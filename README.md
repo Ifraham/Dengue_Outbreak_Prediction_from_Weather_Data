@@ -4,7 +4,7 @@ We predict dengue outbreak using weather data. Dengue data is collected from Dir
 
 
 
-Citation Request:
+**Citation Request:**
 
 inproceedings{leon2022dengue,
   title={Dengue Outbreak Prediction from Weather Aware Data},
